@@ -48,14 +48,13 @@ ChatGPT：
 
 
 
-- Imagens utilizadas em `assets`
-- Documentos de Excel em `output`
 
 
 ## 👨‍💻 Expert
 
-    <a href="www.linkedin.com/in/Virginia Goldschmidt Xavier
+    "www.linkedin.com/in/Virginia Goldschmidt Xavier
 
-    Este conteúdo foi gerado como parte do projeto educacional Bootcamp CAIXA - IA Generativa com Microsoft Copilot, em disciplina orientada pelo Instrutor Felipe Silva Aguiar.
+    Este conteúdo foi gerado como parte do projeto educacional Bootcamp CAIXA - IA Generativa com Microsoft Copilot, 
+    em disciplina orientada pelo Instrutor Felipe Silva Aguiar.
 
 
