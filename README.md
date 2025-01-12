@@ -26,7 +26,14 @@ Projeto: Análise de Dados com uso de Planilhas Inteligentes e IA
 
 
 
-Projeto com o objetivo de gerar Analise de dados de uma Planilha Excel com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar Analise de dados de uma Planilha do Excel com as facilidades das ferramentas de IA. 
+
+Uma planilha avançada foi desenvolvida no Excel com base nas orientações do introdutor Felipe Aguiar, da DIO. 
+O documento foi estruturado manualmente, utilizando as funcionalidades avançadas da ferramenta para atender às necessidades do projeto.
+
+Após isso, foi utilizado ChatGPT para a interpretação dos dados do Arquivo Base do Excel.
+
+todos os prompts
 seguem abaixo.
 
 
