@@ -5,7 +5,7 @@ Projeto: Análise de Dados com uso de Planilhas Inteligentes e IA
 
 <p align="center">
    
- <img width="100" src=".github/assets/BONECA DESENHO OCULOS.png">
+ <img width="100" src="./BONECA DESENHO OCULOS.png">
 </p>
 
 
@@ -18,7 +18,7 @@ Projeto: Análise de Dados com uso de Planilhas Inteligentes e IA
 
 <p align="center">
 <img 
-    src="./assets/BONECA DESENHO OCULOS.png"
+    src="./Planilha Inteligente Capa.png"
     width="400"  
 />
 </p>
