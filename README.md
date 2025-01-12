@@ -30,7 +30,6 @@ Projeto: Análise de Dados com uso de Planilhas Inteligentes e IA
 Projeto com o objetivo de gerar Analise de dados de uma Planilha Excel com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -49,8 +48,6 @@ ChatGPT：
 | Segundo Prompt | Aonde estão meus maiores gastos?
 
 
-Bing Image Creator：
-## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - Documentos de Excel em `output`
@@ -59,3 +56,7 @@ Bing Image Creator：
 ## 👨‍💻 Expert
 
     <a href="www.linkedin.com/in/Virginia Goldschmidt Xavier
+
+    Este conteúdo foi gerado como parte do projeto educacional Bootcamp CAIXA - IA Generativa com Microsoft Copilot, em disciplina orientada pelo Instrutor Felipe Silva Aguiar.
+
+
