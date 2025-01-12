@@ -17,7 +17,7 @@ Projeto: Análise de Dados com uso de Planilhas Inteligentes e IA
 
 
 <p align="center">
-<img 
+<img <img width="400" src="./Planilha Inteligente Capa.png">
     src="./Planilha Inteligente Capa.png"
     width="400"  
 />
